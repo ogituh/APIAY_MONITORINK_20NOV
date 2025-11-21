@@ -5,7 +5,7 @@
 <body class="bg-light min-vh-100">
 
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3 px-4 d-flex align-items-center">
-        <a class="navbar-brand fw-bold d-flex align-items-center" href="{{ route('login.view') }}">
+        <a class="navbar-brand fw-bold d-flex align-items-center" href="{{ route('order-view') }}">
             <img src="{{ asset('img/logo-kyb.png') }}" style="height: 70px; width: auto;" alt="Logo">
         </a>
 
